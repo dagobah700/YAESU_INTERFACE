@@ -1,0 +1,111 @@
+Added Component: Designator=C1(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C2(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=C3(FP-1206-L_3_2_0_2-W_1_6_0-IPC_B)
+Added Component: Designator=J1(ACA-115)
+Added Component: Designator=J2(ACA-115)
+Added Component: Designator=J3(PIN_HEADER_1L_2P)
+Added Component: Designator=J4(PIN_HEADER_1L_4P)
+Added Component: Designator=MH1(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH2(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH3(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH4(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=R1(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "DNM"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "360R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "DNM"; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "360R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "DNM"; VariantName = "[No Variations]"
+Added Component: Designator=R7(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "DNM"; VariantName = "[No Variations]"
+Added Component: Designator=R9(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "DNM"; VariantName = "[No Variations]"
+Added Component: Designator=RV1(POT_THT_200MIL)
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LIN"; VariantName = "[No Variations]"
+Added Component: Designator=RV2(POT_THT_200MIL)
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LIN"; VariantName = "[No Variations]"
+Added Component: Designator=TR1(TRANSFORMER_600_600_THT_RED)
+Added Component: Designator=TR2(TRANSFORMER_600_600_THT_RED)
+Added Pin To Net: NetName=GND_PC Pin=C1-2
+Added Pin To Net: NetName=GND_PC Pin=C2-2
+Added Pin To Net: NetName=GND_PC Pin=J1-1
+Added Pin To Net: NetName=GND_PC Pin=J2-1
+Added Pin To Net: NetName=GND_PC Pin=R7-2
+Added Pin To Net: NetName=GND_PC Pin=RV1-1
+Added Pin To Net: NetName=GND_PC Pin=TR1-P2
+Added Pin To Net: NetName=GND_PC Pin=TR2-P2
+Added Net: Name=GND_PC
+Added Pin To Net: NetName=GND_RTX Pin=C3-2
+Added Pin To Net: NetName=GND_RTX Pin=J4-4
+Added Pin To Net: NetName=GND_RTX Pin=RV2-1
+Added Pin To Net: NetName=GND_RTX Pin=TR1-S2
+Added Pin To Net: NetName=GND_RTX Pin=TR2-S2
+Added Net: Name=GND_RTX
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=RV1-3
+Added Pin To Net: NetName=NetC1_1 Pin=TR1-P1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=R7-1
+Added Pin To Net: NetName=NetC2_1 Pin=TR2-P1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_3 Pin=RV1-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R4-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=R2-1
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R1-2
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R6-2
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R8-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=R9-2
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=TR2-S1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=RV2-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=PTT Pin=R1-1
+Added Net: Name=PTT
+Added Pin To Net: NetName=RADIO_AUDIO_IN Pin=C3-1
+Added Pin To Net: NetName=RADIO_AUDIO_IN Pin=R9-1
+Added Pin To Net: NetName=RADIO_AUDIO_IN Pin=RV2-2
+Added Net: Name=RADIO_AUDIO_IN
+Added Pin To Net: NetName=RADIO_AUDIO_OUT Pin=R6-1
+Added Pin To Net: NetName=RADIO_AUDIO_OUT Pin=R8-1
+Added Pin To Net: NetName=RADIO_AUDIO_OUT Pin=TR1-S1
+Added Net: Name=RADIO_AUDIO_OUT
+Added Pin To Net: NetName=SQL Pin=R3-1
+Added Net: Name=SQL
+Added Class: Name=interface

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B New Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B
+Change Component Footprint: Designator=C2 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B New Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B
+Change Component Footprint: Designator=C3 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B New Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R9 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Added Pin To Net: NetName=GND_PC Pin=MH1-1
+Added Pin To Net: NetName=GND_RTX Pin=MH2-1
+Added Pin To Net: NetName=GND_RTX Pin=MH3-1
+Added Pin To Net: NetName=GND_PC Pin=MH4-1

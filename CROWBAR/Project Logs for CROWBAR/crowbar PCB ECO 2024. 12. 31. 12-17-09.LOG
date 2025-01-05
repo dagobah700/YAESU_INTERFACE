@@ -1,0 +1,67 @@
+Added Component: Designator=D1(FP-SOD80C-MFG)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D2PAK_TO-263)
+Added Component: Designator=DS1(AVAG-HLMP-4740)
+Add component (AddParameter): Name = "Category"; Value = "LEDs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://docs.avagotech.com/docs/AV02-1557EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength/Color Temperature"; Value = "569nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intensity"; Value = "2.3mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Appearance"; Value = "ColoredDiffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Shape Type"; Value = "Circular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AvagoTechnologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Orientation"; Value = "TopMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2T-13/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 5.845 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "HLMP-4740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "565nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Uni-Color"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "50°"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE_SOCKET_PTF/78)
+Added Component: Designator=J1(SOLDER_PAD_1L_2P)
+Added Component: Designator=J2(SOLDER_PAD_1L_2P)
+Added Component: Designator=MH1(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH2(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH3(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=MH4(MOUNTING_HOLE_GROUNDED)
+Added Component: Designator=R1(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-CRCW1206-e3-IPC_B)
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=TR1(TRANSFORMER_TOROID_FLAT)
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=TR1-P1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD1_1 Pin=TR1-S1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R1-2
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetF1_1 Pin=J2-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=TR1-P2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=TR1-S2
+Added Net: Name=NetJ1_2
+Added Class: Name=crowbar

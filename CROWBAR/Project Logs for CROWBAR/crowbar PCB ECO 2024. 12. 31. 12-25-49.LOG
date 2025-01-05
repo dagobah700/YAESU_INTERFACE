@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW1206-e3-IPC_B New Footprint=FP-CRCW1206-e3-IPC_B
+Added Component: Designator=D2(BT137-800E_D2PAK_TO-263)
+Added Pin To Net: NetName=NetD1_2 Pin=D2-G
+Added Pin To Net: NetName=NetD1_1 Pin=D2-T1
+Added Pin To Net: NetName=GND Pin=D2-T2
+Added Member To Class: ClassName=crowbar Member=Component D2 BT137-800E
